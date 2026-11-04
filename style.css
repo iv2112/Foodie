@@ -4,3 +4,11 @@ body {
   background-color: rgb(251, 240, 233);
   font-family: Verdana, Geneva, sans-serif;
 }
+
+.logo {
+  text-align: center;
+  user-select: none;
+  margin-top: 30px;
+  font-size: 37px;
+  color: rgb(190, 1, 80);
+}
