@@ -8,7 +8,15 @@ body {
 .logo {
   text-align: center;
   user-select: none;
-  margin-top: 35px;
-  font-size: 37px;
+  margin-top: 40px;
+  font-size: 40px;
   color: rgb(190, 1, 80);
+}
+
+.restaurants {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  margin-top: 110px;
 }
