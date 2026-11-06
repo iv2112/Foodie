@@ -17,6 +17,13 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 30px;
+  gap: 95px;
   margin-top: 110px;
+}
+
+.r-img {
+  width: 225px;
+  height: 160px;
+  border-top-left-radius: 9px;
+  border-top-right-radius: 9px;
 }
