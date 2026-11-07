@@ -82,31 +82,10 @@ body {
   flex-direction: row;
 }
 
-.rated.rated-1 {
+.rated {
   font-weight: 500;
   font-size: 15px;
-  margin-left: 75px;
-  color: rgb(0, 0, 0);
-}
-
-.rated.rated-2 {
-  font-weight: 500;
-  font-size: 15px;
-  margin-left: 55px;
-  color: rgb(0, 0, 0);
-}
-
-.rated.rated-3 {
-  font-weight: 500;
-  font-size: 15px;
-  margin-left: 133px;
-  color: rgb(0, 0, 0);
-}
-
-.rated.rated-4 {
-  font-weight: 500;
-  font-size: 15px;
-  margin-left: 68px;
+  margin-left: 4px;
   color: rgb(0, 0, 0);
 }
 
