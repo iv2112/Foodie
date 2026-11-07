@@ -58,14 +58,13 @@ h2 {
   cursor: pointer;
   transition-delay: 0s;
   transition-duration: 0.2s;
-  transition-property: box-shadow, border-width;
+  transition-property: box-shadow;
   transition-timing-function: ease;
 }
 
 .menu-1:hover,
 .menu-2:hover {
-  box-shadow: 8px 9px 9px rgba(0, 0, 0, 0.3);
-  border-width: 3px;
+  box-shadow: 11px 13px 10px rgba(0, 0, 0, 0.3);
 }
 
 .dish,
