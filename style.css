@@ -136,3 +136,8 @@ body {
 .restaurant-4:hover {
   box-shadow: 7px 8px 14px rgba(0, 0, 0, 0.3);
 }
+
+.rating {
+  display: flex;
+  align-items: center;
+}
