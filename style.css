@@ -25,6 +25,8 @@ body {
   background-color: rgb(253, 253, 253);
   border-bottom-left-radius: 12px;
   border-bottom-right-radius: 12px;
+  text-align: center;
+  font-weight: 100;
   cursor: pointer;
 }
 
