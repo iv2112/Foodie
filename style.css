@@ -106,7 +106,7 @@ body {
 .more-info {
   display: flex;
   flex-direction: row;
-  gap: 10px;
+  gap: 7px;
 }
 
 .zuki {
