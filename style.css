@@ -73,7 +73,8 @@ hr {
 .r-name {
   font-size: 21.5px;
   margin-top: 0;
-  font-weight: 500;
+  font-weight: 600;
+  letter-spacing: 0.5px;
   margin-bottom: 0;
   display: flex;
   align-items: center;
