@@ -29,8 +29,19 @@ body {
   font-style: italic;
 }
 
+.menus {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 95px;
+  gap: 100px;
+  margin-bottom: 75px;
+}
+
 .menu-1,
 .menu-2 {
   background-color: rgb(255, 255, 255);
   border-radius: 12px;
+  width: 500px;
+  height: 700px;
 }
