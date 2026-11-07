@@ -58,3 +58,11 @@ body {
 .menu-2:hover {
   box-shadow: 11px 13px 10px rgba(0, 0, 0, 0.3);
 }
+
+h2 {
+  text-align: center;
+  font-style: italic;
+  margin-top: 40px;
+  color: maroon;
+  user-select: none;
+}
