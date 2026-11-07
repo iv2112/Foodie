@@ -66,3 +66,16 @@ h2 {
   color: maroon;
   user-select: none;
 }
+
+.option-1,
+.option-2,
+.option-3,
+.option-4,
+.option-5 {
+  display: flex;
+  flex-direction: row;
+}
+
+.option-1 {
+  margin-top: 50px;
+}
