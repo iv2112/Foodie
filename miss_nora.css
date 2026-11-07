@@ -66,6 +66,10 @@ h2 {
   font-size: 17px;
 }
 
+.dish {
+  margin-left: 35px;
+}
+
 .option-1,
 .option-2,
 .option-3,
@@ -73,4 +77,8 @@ h2 {
 .option-5 {
   display: flex;
   flex-direction: row;
+}
+
+.option-1 {
+  margin-top: 40px;
 }
