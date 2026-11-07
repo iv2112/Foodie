@@ -20,3 +20,11 @@ body {
   text-decoration: none;
   margin-top: 55px;
 }
+
+.name {
+  font-size: 26px;
+  font-weight: 500;
+  text-align: center;
+  margin-top: 55px;
+  user-select: none;
+}
