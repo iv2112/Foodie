@@ -26,7 +26,6 @@ body {
   border-bottom-left-radius: 12px;
   border-bottom-right-radius: 12px;
   text-align: center;
-  font-weight: 500;
   user-select: none;
   cursor: pointer;
 }
@@ -36,4 +35,11 @@ body {
   height: 180px;
   border-top-left-radius: 12px;
   border-top-right-radius: 12px;
+}
+
+.r-name {
+  font-size: 21px;
+  margin-top: 23px;
+  font-weight: 500;
+  margin-bottom: 0;
 }
