@@ -61,7 +61,7 @@ body {
   flex-direction: row;
 }
 
-.rated {
+.rated.rated-1 {
   font-weight: 500;
   font-size: 15px;
   margin-left: 75px;
