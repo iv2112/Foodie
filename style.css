@@ -5,12 +5,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-h5,
-h6 {
-  color: rgb(0, 0, 0);
-  text-decoration: none;
-}
-
 .logo {
   text-align: center;
   user-select: none;
@@ -73,28 +67,24 @@ h6 {
   font-weight: 500;
   font-size: 15px;
   margin-left: 75px;
-  text-decoration: none;
 }
 
 .rated.rated-2 {
   font-weight: 500;
   font-size: 15px;
   margin-left: 55px;
-  text-decoration: none;
 }
 
 .rated.rated-3 {
   font-weight: 500;
   font-size: 15px;
   margin-left: 133px;
-  text-decoration: none;
 }
 
 .rated.rated-4 {
   font-weight: 500;
   font-size: 15px;
   margin-left: 68px;
-  text-decoration: none;
 }
 
 .more-info {
