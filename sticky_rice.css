@@ -28,3 +28,33 @@ body {
   margin-top: 55px;
   user-select: none;
 }
+
+.menus {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 95px;
+  gap: 100px;
+  margin-bottom: 75px;
+}
+
+.menu-1,
+.menu-2 {
+  background-color: rgb(255, 255, 255);
+  border-radius: 12px;
+  width: 500px;
+  height: 700px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: maroon;
+  cursor: pointer;
+  transition-delay: 0s;
+  transition-duration: 0.2s;
+  transition-property: box-shadow;
+  transition-timing-function: ease;
+}
+
+.menu-1,
+.menu-2 {
+  box-shadow: 11px 13px 10px rgba(0, 0, 0, 0.3);
+}
