@@ -22,12 +22,15 @@ body {
 }
 
 .res {
+  background-color: rgb(253, 253, 253);
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
   cursor: pointer;
 }
 
 .r-img {
   width: 225px;
   height: 160px;
-  border-top-left-radius: 9px;
-  border-top-right-radius: 9px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
 }
