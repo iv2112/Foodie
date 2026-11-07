@@ -85,8 +85,23 @@ body {
 .rated {
   font-weight: 500;
   font-size: 15px;
-  margin-left: 4px;
   color: rgb(0, 0, 0);
+}
+
+.rated.rated-1 {
+  margin-left: 75px;
+}
+
+.rated.rated-2 {
+  margin-left: 55px;
+}
+
+.rated.rated-3 {
+  margin-left: 133px;
+}
+
+.rated.rated-4 {
+  margin-left: 68px;
 }
 
 .more-info {
