@@ -67,19 +67,6 @@ h2 {
   user-select: none;
 }
 
-.dish,
-.price {
-  user-select: none;
-  font-weight: 500;
-  color: maroon;
-  font-weight: bold;
-  font-size: 17px;
-}
-
-.dish {
-  margin-left: 35px;
-}
-
 .option-1,
 .option-2,
 .option-3,
@@ -91,6 +78,19 @@ h2 {
 
 .option-1 {
   margin-top: 50px;
+}
+
+.dish,
+.price {
+  user-select: none;
+  font-weight: 500;
+  color: maroon;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.dish {
+  margin-left: 35px;
 }
 
 .p-1 {
