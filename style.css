@@ -54,17 +54,17 @@ hr {
   text-align: center;
   text-decoration: none;
   user-select: none;
-  border-radius: 12px;
+  border-radius: 14px;
   cursor: pointer;
 }
 
 .r-img {
   width: 240px;
   height: 180px;
-  border-top-left-radius: 12px;
-  border-top-right-radius: 12px;
-  border-bottom-left-radius: 12px;
-  border-bottom-right-radius: 12px;
+  border-top-left-radius: 14px;
+  border-top-right-radius: 14px;
+  border-bottom-left-radius: 14px;
+  border-bottom-right-radius: 14px;
   margin-top: 11px;
   margin-left: 11px;
   margin-right: 11px;
