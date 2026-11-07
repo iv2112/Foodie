@@ -28,3 +28,9 @@ body {
   margin-top: 55px;
   font-style: italic;
 }
+
+.menu-1,
+.menu-2 {
+  background-color: rgb(255, 255, 255);
+  border-radius: 12px;
+}
