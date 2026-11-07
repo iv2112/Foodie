@@ -97,3 +97,7 @@ body {
   flex-direction: row;
   gap: 16px;
 }
+
+.zuki {
+  margin-left: 21px;
+}
