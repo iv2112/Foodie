@@ -70,14 +70,17 @@ body {
 .rated.rated-2 {
   font-weight: 500;
   font-size: 15px;
+  margin-left: 55px;
 }
 
 .rated.rated-3 {
   font-weight: 500;
   font-size: 15px;
+  margin-left: 133px;
 }
 
 .rated.rated-4 {
   font-weight: 500;
   font-size: 15px;
+  margin-left: 68px;
 }
