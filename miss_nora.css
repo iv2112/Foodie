@@ -10,9 +10,13 @@ body {
 }
 
 .logo {
-  text-align: center;
   user-select: none;
-  margin-top: 55px;
   font-size: 40px;
   color: rgb(190, 1, 80);
+  text-decoration: none;
+  display: table;
+  margin: 0 auto;
+  margin-top: 55px;
+  text-align: center;
+  font-weight: 600;
 }
