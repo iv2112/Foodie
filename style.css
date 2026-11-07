@@ -97,8 +97,6 @@ body {
   display: flex;
   flex-direction: row;
   gap: 16px;
-  padding-left: 7px;
-  padding-right: 7px;
 }
 
 .zuki {
