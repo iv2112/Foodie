@@ -12,6 +12,12 @@ body {
   border-color: rgb(190, 1, 80);
 }
 
+hr {
+  border: none;
+  height: 1px;
+  background-color: rgb(190, 1, 80);
+}
+
 .star-path {
   fill: url(#half-star);
   stroke: #f5b301;
