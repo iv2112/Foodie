@@ -9,6 +9,19 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.star-path {
+  fill: url(#half-star);
+  stroke: #f5b301;
+  stroke-width: 1.5;
+  stroke-linejoin: round;
+}
+
+.svg-defs {
+  position: absolute;
+  width: 0;
+  height: 0;
+}
+
 .logo {
   text-align: center;
   user-select: none;
