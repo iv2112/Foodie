@@ -79,3 +79,16 @@ h2 {
 .option-1 {
   margin-top: 50px;
 }
+
+.dish,
+.price {
+  user-select: none;
+  font-weight: 500;
+  color: maroon;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.dish {
+  margin-left: 35px;
+}
