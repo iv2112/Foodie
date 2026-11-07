@@ -84,3 +84,9 @@ body {
   font-size: 15px;
   margin-left: 68px;
 }
+
+.more-info {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+}
