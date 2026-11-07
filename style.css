@@ -141,6 +141,21 @@ body {
   width: 16px;
   height: 16px;
   flex-shrink: 0;
-  margin-left: 7px;
   margin-right: 15px;
+}
+
+.star-1 {
+  margin-left: 4px;
+}
+
+.star-2 {
+  margin-left: 5.5px;
+}
+
+.star-3 {
+  margin-left: 6px;
+}
+
+.star-4 {
+  margin-left: 5.5px;
 }
