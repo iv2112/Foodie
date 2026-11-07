@@ -25,9 +25,13 @@ body {
 .logo {
   text-align: center;
   user-select: none;
-  margin-top: 55px;
   font-size: 40px;
   color: rgb(190, 1, 80);
+  display: table;
+  text-decoration: none;
+  margin: 0 auto;
+  margin-top: 55px;
+  font-weight: 600;
 }
 
 .restaurants {
