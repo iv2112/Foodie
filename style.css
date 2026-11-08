@@ -115,6 +115,10 @@ body {
   margin-left: 68px;
 }
 
+.rated.rated-5 {
+  margin-left: 99px;
+}
+
 .more-info {
   display: flex;
   flex-direction: row;
