@@ -39,7 +39,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 25px;
+  gap: 75px;
   margin-top: 95px;
 }
 
@@ -115,10 +115,6 @@ body {
   margin-left: 68px;
 }
 
-.rated.rated-5 {
-  margin-left: 99px;
-}
-
 .more-info {
   display: flex;
   flex-direction: row;
@@ -132,8 +128,7 @@ body {
 .restaurant-1,
 .restaurant-2,
 .restaurant-3,
-.restaurant-4,
-.restaurant-5 {
+.restaurant-4 {
   transition-delay: 0s;
   transition-duration: 0.2s;
   transition-property: box-shadow;
@@ -144,8 +139,7 @@ body {
 .restaurant-1:hover,
 .restaurant-2:hover,
 .restaurant-3:hover,
-.restaurant-4:hover,
-.restaurant-5:hover {
+.restaurant-4:hover {
   box-shadow: 7px 8px 14px rgba(0, 0, 0, 0.3);
 }
 
@@ -174,10 +168,6 @@ body {
 }
 
 .star-4 {
-  margin-left: 5.5px;
-}
-
-.star-5 {
   margin-left: 5.5px;
 }
 
