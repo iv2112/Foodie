@@ -9,12 +9,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-hr {
-  border: none;
-  height: 1px;
-  background-color: rgb(0, 0, 0);
-}
-
 .star-path {
   fill: url(#half-star);
   stroke: #f5b301;
