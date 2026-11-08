@@ -9,12 +9,6 @@ body {
   background-color: rgb(244, 242, 242);
 }
 
-hr {
-  border: none;
-  height: 1px;
-  background-color: rgb(0, 0, 0);
-}
-
 .logo {
   text-align: center;
   user-select: none;
