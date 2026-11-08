@@ -181,6 +181,7 @@ body {
   margin-top: 125px;
   color: rgb(190, 1, 80);
   font-weight: 550;
+  user-select: none;
 }
 
 .about-para {
@@ -191,4 +192,5 @@ body {
   margin-right: auto;
   margin-top: 45px;
   margin-bottom: 75px;
+  user-select: none;
 }
