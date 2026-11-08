@@ -182,3 +182,13 @@ body {
   color: rgb(190, 1, 80);
   font-weight: 550;
 }
+
+.about-para {
+  text-align: center;
+  width: 550px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 45px;
+  margin-bottom: 75px;
+}
