@@ -128,7 +128,8 @@ body {
 .restaurant-1,
 .restaurant-2,
 .restaurant-3,
-.restaurant-4 {
+.restaurant-4,
+.restaurant-5 {
   transition-delay: 0s;
   transition-duration: 0.2s;
   transition-property: box-shadow;
@@ -139,7 +140,8 @@ body {
 .restaurant-1:hover,
 .restaurant-2:hover,
 .restaurant-3:hover,
-.restaurant-4:hover {
+.restaurant-4:hover,
+.restaurant-5:hover {
   box-shadow: 7px 8px 14px rgba(0, 0, 0, 0.3);
 }
 
